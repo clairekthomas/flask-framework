@@ -5,7 +5,7 @@ technologies from the 12-day course, including Git, Flask, JSON, Pandas,
 Requests, Heroku, and Bokeh for visualization.
 
 The repository contains a basic template for a Flask configuration that will
-work on Heroku.
+work on Heroku. Here I am making an edit.
 
 A [finished example](https://lemurian.herokuapp.com) that demonstrates some basic functionality.
 
